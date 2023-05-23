@@ -1,0 +1,23 @@
+{
+  "name": "drag-and-drop",
+  "version": "0.0.1",
+  "description": "Drag and drop application in TS",
+  "main": "dist/app.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "keywords": [
+    "drag",
+    "and",
+    "drop",
+    "drag",
+    "drop",
+    "typescript",
+    "ts"
+  ],
+  "author": "Vicente Gutierrez",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
