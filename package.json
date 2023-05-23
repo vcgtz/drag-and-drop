@@ -4,7 +4,8 @@
   "description": "Drag and drop application in TS",
   "main": "dist/app.js",
   "scripts": {
-    "tsc": "tsc"
+    "tsc": "tsc",
+    "watch": "tsc -w"
   },
   "keywords": [
     "drag",
